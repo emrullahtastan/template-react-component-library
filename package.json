@@ -1,9 +1,6 @@
 {
   "name": "@emrullahtastan/template-react-component-library",
-  "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
-  },
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
   "scripts": {
     "rollup": "rollup -c"
